@@ -475,3 +475,8 @@ body {
     min-height: 250px; /* uniform height */
     transition: all 0.3s ease;
 }
+.powered {
+    font-size: 7px;
+    color: #aaa;
+    letter-spacing: 1px;
+}
